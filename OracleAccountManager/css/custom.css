@@ -1,0 +1,44 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+
+.header{
+    display:flex;
+    margin-top:20px;
+    margin-left:10px;
+}
+
+#logo{
+    height: 40px;
+    width: 40px;
+    margin-right:10px;
+}
+
+#logo2{
+    height: 40px;
+    width: 40px;
+    margin-right:10px;
+}
+#tb_Password{
+    width: 35%;
+}
+
+#b_GeneratePassword{
+     width: 35%;
+     padding: 0;
+}
+.inputGroup{
+    display:flex;
+    align-items: center;
+}
+
+.inputGroup h5{
+    float: left; 
+    width: 30%;
+    display: inline-block;
+}
+
+.inputGroup input{
+    width: 70%;
+    display: inline-block;
+    float: right;
+}
+
